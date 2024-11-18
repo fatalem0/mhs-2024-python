@@ -1,0 +1,22 @@
+(venv) (base) ➜  hw_1 git:(main) ✗ tail 2_1.txt
+Jeep
+Porsche
+Dodge
+Jaguar
+Lamborghini
+Maserati
+Bentley
+Chrysler
+Cadillac
+Mazda%
+(venv) (base) ➜  hw_1 git:(main) ✗ python 2.py 2_1.txt
+Jeep
+Porsche
+Dodge
+Jaguar
+Lamborghini
+Maserati
+Bentley
+Chrysler
+Cadillac
+Mazda%

@@ -1,0 +1,14 @@
+(venv) (base) ➜  hw_1 git:(main) ✗ wc
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+       5       7      58
+(venv) (base) ➜  hw_1 git:(main) ✗ python 3.py
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+       5       7      58

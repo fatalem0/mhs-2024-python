@@ -1,0 +1,8 @@
+(venv) (base) ➜  hw_1 git:(main) ✗ wc 3_1.txt 3_2.txt
+       5       7      58 3_1.txt
+       5       5      30 3_2.txt
+      10      12      88 total
+(venv) (base) ➜  hw_1 git:(main) ✗ python 3.py 3_1.txt 3_2.txt
+       5       7      58 3_1.txt
+       5       5      30 3_2.txt
+      10      12      88 total

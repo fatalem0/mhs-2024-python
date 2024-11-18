@@ -1,0 +1,23 @@
+(venv) (base) ➜  hw_1 git:(main) ✗ nl -b a 1.txt
+     1
+     2  Tesla
+     3  BMW
+     4  Ferrari
+     5  Ford
+     6  Honda
+     7
+(venv) (base) ➜  hw_1 git:(main) ✗ python 1.py
+
+Tesla
+BMW
+Ferrari
+Ford
+Honda
+
+     1
+     2  Tesla
+     3  BMW
+     4  Ferrari
+     5  Ford
+     6  Honda
+     7

@@ -1,0 +1,46 @@
+(venv) (base) ➜  hw_1 git:(main) ✗ tail 2_1.txt 2_2.txt
+==> 2_1.txt <==
+Jeep
+Porsche
+Dodge
+Jaguar
+Lamborghini
+Maserati
+Bentley
+Chrysler
+Cadillac
+Mazda
+==> 2_2.txt <==
+Tesla
+BMW
+Ferrari
+Ford
+Honda
+Toyota
+Subaru
+Hyundai
+Audi
+Jeep%
+(venv) (base) ➜  hw_1 git:(main) ✗ python 2.py 2_1.txt 2_2.txt
+==> 2_1.txt <==
+Jeep
+Porsche
+Dodge
+Jaguar
+Lamborghini
+Maserati
+Bentley
+Chrysler
+Cadillac
+Mazda
+==> 2_2.txt <==
+Tesla
+BMW
+Ferrari
+Ford
+Honda
+Toyota
+Subaru
+Hyundai
+Audi
+Jeep
