@@ -1,0 +1,34 @@
+(venv) (base) ➜  hw_4 git:(main) ✗ python 2.py thread_pool_executor
+23:44:42 - Total execution time with 1 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd0f0> workers: 0.7525 seconds
+23:44:43 - Total execution time with 2 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd420> workers: 0.7654 seconds
+23:44:44 - Total execution time with 3 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd660> workers: 0.7538 seconds
+23:44:44 - Total execution time with 4 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd5d0> workers: 0.7466 seconds
+23:44:45 - Total execution time with 5 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd7e0> workers: 0.7518 seconds
+23:44:46 - Total execution time with 6 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd7e0> workers: 0.7474 seconds
+23:44:47 - Total execution time with 7 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd5a0> workers: 0.7719 seconds
+23:44:48 - Total execution time with 8 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcdff0> workers: 0.7703 seconds
+23:44:48 - Total execution time with 9 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd990> workers: 0.7676 seconds
+23:44:49 - Total execution time with 10 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd3f0> workers: 0.7679 seconds
+23:44:50 - Total execution time with 11 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcdde0> workers: 0.7673 seconds
+23:44:51 - Total execution time with 12 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcebf0> workers: 0.7675 seconds
+23:44:51 - Total execution time with 13 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bce560> workers: 0.7776 seconds
+23:44:52 - Total execution time with 14 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bce3b0> workers: 0.8004 seconds
+23:44:53 - Total execution time with 15 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcd3f0> workers: 0.7632 seconds
+23:44:54 - Total execution time with 16 <concurrent.futures.thread.ThreadPoolExecutor object at 0x104bcdde0> workers: 0.7756 seconds
+(venv) (base) ➜  hw_4 git:(main) ✗ python 2.py process_pool_executor
+23:45:06 - Total execution time with 1 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293d0f0> workers: 0.9160 seconds
+23:45:06 - Total execution time with 2 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fc70> workers: 0.4327 seconds
+23:45:06 - Total execution time with 3 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fa00> workers: 0.3326 seconds
+23:45:07 - Total execution time with 4 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293dc90> workers: 0.2685 seconds
+23:45:07 - Total execution time with 5 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fe80> workers: 0.2669 seconds
+23:45:07 - Total execution time with 6 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293df90> workers: 0.2578 seconds
+23:45:07 - Total execution time with 7 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293de10> workers: 0.2405 seconds
+23:45:08 - Total execution time with 8 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fa30> workers: 0.2984 seconds
+23:45:08 - Total execution time with 9 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293d0f0> workers: 0.2689 seconds
+23:45:08 - Total execution time with 10 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293e7d0> workers: 0.2625 seconds
+23:45:09 - Total execution time with 11 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293d0c0> workers: 0.2902 seconds
+23:45:09 - Total execution time with 12 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fa90> workers: 0.2849 seconds
+23:45:09 - Total execution time with 13 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fc40> workers: 0.2903 seconds
+23:45:09 - Total execution time with 14 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fa00> workers: 0.3007 seconds
+23:45:10 - Total execution time with 15 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293d7e0> workers: 0.3211 seconds
+23:45:10 - Total execution time with 16 <concurrent.futures.process.ProcessPoolExecutor object at 0x10293fb50> workers: 0.3342 seconds
